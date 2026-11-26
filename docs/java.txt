@@ -1,0 +1,7 @@
+Java is a popular programming language.
+Java is used to develop desktop applications.
+Many developers use Java for backend development.
+Java supports object oriented programming.
+Programming with Java requires understanding classes and objects.
+Java provides useful data structures such as arrays and linked lists.
+Developers use Java to build reliable software applications.

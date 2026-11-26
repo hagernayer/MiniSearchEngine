@@ -1,0 +1,7 @@
+Data structures are important in computer science.
+Arrays store data in continuous memory locations.
+Linked lists organize data using nodes and pointers.
+Stacks follow the Last In First Out principle.
+Queues follow the First In First Out principle.
+Trees are hierarchical data structures.
+Java provides several ways to implement data structures.

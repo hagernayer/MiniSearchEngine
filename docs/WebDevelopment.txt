@@ -1,0 +1,7 @@
+Web development is the process of building websites.
+Frontend development focuses on the user interface.
+Backend development handles application logic and data.
+Java is commonly used in backend development.
+HTML and CSS are essential web technologies.
+JavaScript makes websites interactive.
+Software development requires problem solving and programming skills.

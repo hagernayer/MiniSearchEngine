@@ -1,0 +1,7 @@
+Databases are used to store and manage data.
+Database systems organize information efficiently.
+SQL is a language used to communicate with databases.
+Applications use databases to save user information.
+Data structures help organize data inside computer memory.
+Java applications can connect to database systems.
+Good database design improves software performance.

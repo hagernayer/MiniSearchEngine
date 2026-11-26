@@ -1,0 +1,7 @@
+Algorithms are step by step procedures used to solve problems.
+Searching algorithms help find specific data.
+Sorting algorithms organize data in a particular order.
+Binary search is an efficient searching algorithm.
+Algorithms are important for software development.
+Data structures affect the performance of algorithms.
+Java can be used to implement different algorithms.
