@@ -1,6 +1,6 @@
 public class Node {
-    private Document data;
-    private Node next;
+    Document data;
+    Node next;
 
     Node (Document data){
         this.data= data;
